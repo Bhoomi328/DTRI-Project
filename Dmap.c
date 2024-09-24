@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// Editing for git hub reference
 int main()
 {
     int i,size,newsize,*ptr;
